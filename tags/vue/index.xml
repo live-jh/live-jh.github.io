@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>vue on live-jh blog</title>
+    <link>https://live-jh.github.io/tags/vue/</link>
+    <description>Recent content in vue on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 22:11:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/tags/vue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>vue template 기초 정리</title>
+        <link>https://live-jh.github.io/posts/dev/vue_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:11:00 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:11:00 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/vue_info/</guid>
+        <description>Vue Template 기초 정리 doit! vue.js 입문 책을 보며 학습한 내용을 간략히 정리하였습니다. Vue Template? HTML, CSS등 마크업 속성과 뷰 인스턴스에서 정의한 데이터 및 로직을 연결해 사용자가 브라</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>vue</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>vue router &amp; http 통신 이해</title>
+        <link>https://live-jh.github.io/posts/dev/vue_router/</link>
+        <pubDate>Sun, 15 Nov 2020 22:00:59 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:00:59 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/vue_router/</guid>
+        <description>Vue Router &amp;amp; http 통신 doit! vue.js 입문 책을 보며 학습한 내용을 간략히 정리하였습니다. Routing? 웹페이지간 이동 방법으로 현재 SPA에서 가장 많이 사용되고 있습니다. SPA는 페이지</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>vue</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

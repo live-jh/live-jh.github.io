@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>react on live-jh blog</title>
+    <link>https://live-jh.github.io/tags/react/</link>
+    <description>Recent content in react on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 22:20:44 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>리액트 시작 전 간단 정리</title>
+        <link>https://live-jh.github.io/posts/dev/react_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:20:44 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:20:44 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/react_info/</guid>
+        <description>리액트 학습에 대한 정리하는 포스팅입니다. What is React? 리액트는 페이스북에서 제작한 자바스크립트 라이브러리입니다. 사용자 인터페이스를 구축하기 위해 사용되며 SPA</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>react</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

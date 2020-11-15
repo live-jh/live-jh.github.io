@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>aws on live-jh blog</title>
+    <link>https://live-jh.github.io/tags/aws/</link>
+    <description>Recent content in aws on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 22:15:22 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>따라하며 익히는 aws로 웹서버 구성하기 정리 2</title>
+        <link>https://live-jh.github.io/posts/dev/aws_web_service_beginner_2/</link>
+        <pubDate>Sun, 15 Nov 2020 22:15:22 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:15:22 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/aws_web_service_beginner_2/</guid>
+        <description>aws로 웹서버 구성하기 정리 요약-2 생활코딩 및 jojoldu 님의 블로그를 보며 학습한 내용을 정리한 글입니다.) 목차 1, 2는 이전 aws로 웹서버 구성하기 정리 요약-1</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>따라하며 익히는 aws로 웹서버 구성하기 정리 1</title>
+        <link>https://live-jh.github.io/posts/dev/aws_web_service_beginner_1/</link>
+        <pubDate>Sun, 15 Nov 2020 22:15:18 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:15:18 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/aws_web_service_beginner_1/</guid>
+        <description>aws로 웹서버 구성하기 정리 요약-1 생활코딩 및 jojoldu 님의 블로그를 보며 학습한 내용을 정리한 글입니다.) 목차 1. 회원가입 2. 인스턴스 생성 3. 탄력 IP 등록 4. 터미널</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>aws lunux 1 서버 초기 설정하기</title>
+        <link>https://live-jh.github.io/posts/dev/aws_ec2_setting/</link>
+        <pubDate>Sun, 15 Nov 2020 22:15:04 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:15:04 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/aws_ec2_setting/</guid>
+        <description>aws linux 1 서버 초기 설정 스프링 부트와 AWS로 혼자 구현하는 웹서비스 도서를 보고 정리한 내용입니다. 타임존 변경(미국시간 -&amp;gt; 한국시간) 호스트네임 변경(접속한</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>aws 사용 전 미리 알아두기 좋은 용어정리</title>
+        <link>https://live-jh.github.io/posts/dev/aws_start_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:07:33 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:07:33 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/aws_start_info/</guid>
+        <description>AWS을 시작하며 공부하는 내용을 정리하는 글이며 지속적으로 추가/수정 할 예정입니다. 아직 모르는 부분이 많아 부족하지만 천천히 평소처럼 삽질하며 배우려고 합</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Project on live-jh blog</title>
+    <link>https://live-jh.github.io/showcase/project/</link>
+    <description>Recent content in Project on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 19:41:43 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/showcase/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>TIL</title>
+        <link>https://live-jh.github.io/showcase/project/til/</link>
+        <pubDate>Sun, 15 Nov 2020 19:38:52 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 19:38:52 +0900</atom:modified>
+        <guid>https://live-jh.github.io/showcase/project/til/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>private project....</title>
+        <link>https://live-jh.github.io/showcase/project/forceofhabit/</link>
+        <pubDate>Sun, 15 Nov 2020 19:42:54 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 19:42:54 +0900</atom:modified>
+        <guid>https://live-jh.github.io/showcase/project/forceofhabit/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

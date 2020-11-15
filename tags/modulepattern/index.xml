@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>modulePattern on live-jh blog</title>
+    <link>https://live-jh.github.io/tags/modulepattern/</link>
+    <description>Recent content in modulePattern on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 22:11:43 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/tags/modulepattern/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>모듈 패턴과 JSON 간단 정리</title>
+        <link>https://live-jh.github.io/posts/dev/module_pattern_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:11:43 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:11:43 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/module_pattern_info/</guid>
+        <description>모듈패턴 및 JSON? JSON이란? GET HTTP 요청을 사용하여 서버에서 JSON으로 인코딩 된 데이터를 불러오는 기능을 말합니다. JSON은 문자열 형태지만javasc</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>modulePattern</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

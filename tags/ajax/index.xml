@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>ajax on live-jh blog</title>
+    <link>https://live-jh.github.io/tags/ajax/</link>
+    <description>Recent content in ajax on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 22:06:46 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>쉽게 이해하는 ajax 기초 정리</title>
+        <link>https://live-jh.github.io/posts/dev/ajax_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:06:46 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:06:46 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/ajax_info/</guid>
+        <description>Ajax란? 서버로부터 데이터를 가져와 전체 페이지를 새로 고치지 않고 일부만 로드할 수 있게 하는 기법으로 비동기식 요청을 보내는데 필요한 기술을 말합니다. 새로</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>ajax</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>docker on live-jh blog</title>
+    <link>https://live-jh.github.io/tags/docker/</link>
+    <description>Recent content in docker on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 22:08:51 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>신입개발자의 도커와 친해지기</title>
+        <link>https://live-jh.github.io/posts/dev/docker_base/</link>
+        <pubDate>Sun, 15 Nov 2020 22:08:51 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:08:51 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/docker_base/</guid>
+        <description>Docker 도커를 사용하며 필요하고 부족했던 부분을 정리한 내용입니다. Docker? 컨테이너 기반의 오픈소스 가상화 플랫폼, 다양한 프로그램, 실행환경을 컨테이너 단위로 추상화</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>docker</category>
+            
+          
+            
+              <category>도커</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

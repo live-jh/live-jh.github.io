@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>algorithm on live-jh blog</title>
+    <link>https://live-jh.github.io/tags/algorithm/</link>
+    <description>Recent content in algorithm on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 21:49:58 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>알고리즘을 공부 하기전 알면 좋은 기초 개념 정리</title>
+        <link>https://live-jh.github.io/posts/algorithm/algorithm_info/</link>
+        <pubDate>Sun, 15 Nov 2020 21:49:58 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 21:49:58 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/algorithm/algorithm_info/</guid>
+        <description>빅오표기법 알고리즘이 얼마나 빠른지에 대한 표시방법입니다. 연산횟수를 기준으로 하기 때문에 속도를 시간단위로 세지 않으며 빅오표기법은 최악의 경우에 대한 기준</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>algorithm</category>
+            
+          
+            
+              <category>알고리즘</category>
+            
+          
+        
+        
+          
+            
+              <category>algorithm</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>dev on live-jh blog</title>
+    <link>https://live-jh.github.io/categories/dev/</link>
+    <description>Recent content in dev on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 22:20:44 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/categories/dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>리액트 시작 전 간단 정리</title>
+        <link>https://live-jh.github.io/posts/dev/react_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:20:44 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:20:44 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/react_info/</guid>
+        <description>리액트 학습에 대한 정리하는 포스팅입니다. What is React? 리액트는 페이스북에서 제작한 자바스크립트 라이브러리입니다. 사용자 인터페이스를 구축하기 위해 사용되며 SPA</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>react</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>인터넷과 웹의 개념 차이</title>
+        <link>https://live-jh.github.io/posts/dev/web_base/</link>
+        <pubDate>Sun, 15 Nov 2020 22:16:04 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:16:04 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/web_base/</guid>
+        <description>인터넷과 웹의 개념(인터넷 == 웹?) 각각의 개념을 어렴풋이 알고 있고 정확한 차이를 구분하지 못해 네트워크를 공부하면서 기억을 되살릴겸 확실한 개념정리를 위해 작</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>네트워크 용어 정리 및 기초</title>
+        <link>https://live-jh.github.io/posts/dev/network_base/</link>
+        <pubDate>Sun, 15 Nov 2020 22:15:55 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:15:55 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/network_base/</guid>
+        <description>네트워크 기초지식 학습 정리 비전공자로 웹개발자가 되기 위해 적지만 여러 회사를 면접을 보며 기술면접에서 부족한 부분을 채워 나가야겠다라는 생각을 하게 되었고 네트</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>자바스크립트 알아두면 좋을 기초 개념 요약</title>
+        <link>https://live-jh.github.io/posts/dev/js_basic_concept/</link>
+        <pubDate>Sun, 15 Nov 2020 22:15:45 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:15:45 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/js_basic_concept/</guid>
+        <description>드림코딩 엘리 강좌를 보며 유용한 것들에 대해 정리한 내용 2입니다. 요약해서 간단히 정리한 내용이므로 빠진 부분이 있을 수 있습니다. 1. hoisting 사전적 의미는 끌어올리다</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>javascript</category>
+            
+          
+            
+              <category>자바스크립트</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>자바스크립트 함수, 배열 및 APIs 정리</title>
+        <link>https://live-jh.github.io/posts/dev/javascript_apis/</link>
+        <pubDate>Sun, 15 Nov 2020 22:15:33 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:15:33 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/javascript_apis/</guid>
+        <description>드림코딩 엘리 강좌를 보며 유용한 것들에 대해 정리한 내용입니다. API or Document를 읽고 보는 습관을 만들기 👍🏻 1. read API 1 2 3 4 5 // Ex // 2개의 파라미터 (</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>자바스크립트</category>
+            
+          
+            
+              <category>javascript</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>따라하며 익히는 aws로 웹서버 구성하기 정리 2</title>
+        <link>https://live-jh.github.io/posts/dev/aws_web_service_beginner_2/</link>
+        <pubDate>Sun, 15 Nov 2020 22:15:22 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:15:22 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/aws_web_service_beginner_2/</guid>
+        <description>aws로 웹서버 구성하기 정리 요약-2 생활코딩 및 jojoldu 님의 블로그를 보며 학습한 내용을 정리한 글입니다.) 목차 1, 2는 이전 aws로 웹서버 구성하기 정리 요약-1</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>따라하며 익히는 aws로 웹서버 구성하기 정리 1</title>
+        <link>https://live-jh.github.io/posts/dev/aws_web_service_beginner_1/</link>
+        <pubDate>Sun, 15 Nov 2020 22:15:18 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:15:18 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/aws_web_service_beginner_1/</guid>
+        <description>aws로 웹서버 구성하기 정리 요약-1 생활코딩 및 jojoldu 님의 블로그를 보며 학습한 내용을 정리한 글입니다.) 목차 1. 회원가입 2. 인스턴스 생성 3. 탄력 IP 등록 4. 터미널</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>aws lunux 1 서버 초기 설정하기</title>
+        <link>https://live-jh.github.io/posts/dev/aws_ec2_setting/</link>
+        <pubDate>Sun, 15 Nov 2020 22:15:04 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:15:04 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/aws_ec2_setting/</guid>
+        <description>aws linux 1 서버 초기 설정 스프링 부트와 AWS로 혼자 구현하는 웹서비스 도서를 보고 정리한 내용입니다. 타임존 변경(미국시간 -&amp;gt; 한국시간) 호스트네임 변경(접속한</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>비동기 처리 그리고 콜백함수</title>
+        <link>https://live-jh.github.io/posts/dev/asynchronous_callback_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:14:53 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:14:53 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/asynchronous_callback_info/</guid>
+        <description>동기/비동기 처리란? 동기 처리 모델은 직렬적으로 작업을 수행하는 것을 말합니다. 보통 우리는 코드를 작성할 때 위에서 아래로 순차 실행을 기대하는데 이를 동기 처리</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>asynchronous</category>
+            
+          
+            
+              <category>비동기</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>GA UTM 보고서 작업 정리</title>
+        <link>https://live-jh.github.io/posts/dev/ga_utm_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:13:28 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:13:28 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/ga_utm_info/</guid>
+        <description>Google Analytice UTM 대시보드 작업기 회사에서 운영중인 서비스의 사용자 통계를 분석하고자 UTM 작업과 대시보드 추가 작업을 진행해야 한다는 말에 재밌어 보여 작업을 진행하며 메모했</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>utm</category>
+            
+          
+            
+              <category>ga</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>모듈 패턴과 JSON 간단 정리</title>
+        <link>https://live-jh.github.io/posts/dev/module_pattern_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:11:43 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:11:43 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/module_pattern_info/</guid>
+        <description>모듈패턴 및 JSON? JSON이란? GET HTTP 요청을 사용하여 서버에서 JSON으로 인코딩 된 데이터를 불러오는 기능을 말합니다. JSON은 문자열 형태지만javasc</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>modulePattern</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>vue template 기초 정리</title>
+        <link>https://live-jh.github.io/posts/dev/vue_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:11:00 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:11:00 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/vue_info/</guid>
+        <description>Vue Template 기초 정리 doit! vue.js 입문 책을 보며 학습한 내용을 간략히 정리하였습니다. Vue Template? HTML, CSS등 마크업 속성과 뷰 인스턴스에서 정의한 데이터 및 로직을 연결해 사용자가 브라</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>vue</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>신입개발자의 도커와 친해지기</title>
+        <link>https://live-jh.github.io/posts/dev/docker_base/</link>
+        <pubDate>Sun, 15 Nov 2020 22:08:51 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:08:51 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/docker_base/</guid>
+        <description>Docker 도커를 사용하며 필요하고 부족했던 부분을 정리한 내용입니다. Docker? 컨테이너 기반의 오픈소스 가상화 플랫폼, 다양한 프로그램, 실행환경을 컨테이너 단위로 추상화</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>docker</category>
+            
+          
+            
+              <category>도커</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>aws 사용 전 미리 알아두기 좋은 용어정리</title>
+        <link>https://live-jh.github.io/posts/dev/aws_start_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:07:33 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:07:33 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/aws_start_info/</guid>
+        <description>AWS을 시작하며 공부하는 내용을 정리하는 글이며 지속적으로 추가/수정 할 예정입니다. 아직 모르는 부분이 많아 부족하지만 천천히 평소처럼 삽질하며 배우려고 합</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>쉽게 이해하는 ajax 기초 정리</title>
+        <link>https://live-jh.github.io/posts/dev/ajax_info/</link>
+        <pubDate>Sun, 15 Nov 2020 22:06:46 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:06:46 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/ajax_info/</guid>
+        <description>Ajax란? 서버로부터 데이터를 가져와 전체 페이지를 새로 고치지 않고 일부만 로드할 수 있게 하는 기법으로 비동기식 요청을 보내는데 필요한 기술을 말합니다. 새로</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>ajax</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>vue router &amp; http 통신 이해</title>
+        <link>https://live-jh.github.io/posts/dev/vue_router/</link>
+        <pubDate>Sun, 15 Nov 2020 22:00:59 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:00:59 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/vue_router/</guid>
+        <description>Vue Router &amp;amp; http 통신 doit! vue.js 입문 책을 보며 학습한 내용을 간략히 정리하였습니다. Routing? 웹페이지간 이동 방법으로 현재 SPA에서 가장 많이 사용되고 있습니다. SPA는 페이지</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>vue</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

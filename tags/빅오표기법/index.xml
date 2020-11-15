@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>빅오표기법 on live-jh blog</title>
+    <link>https://live-jh.github.io/tags/%EB%B9%85%EC%98%A4%ED%91%9C%EA%B8%B0%EB%B2%95/</link>
+    <description>Recent content in 빅오표기법 on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 21:50:16 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/tags/%EB%B9%85%EC%98%A4%ED%91%9C%EA%B8%B0%EB%B2%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>간단히 알아보는 빅오표기법</title>
+        <link>https://live-jh.github.io/posts/algorithm/big_o_info/</link>
+        <pubDate>Sun, 15 Nov 2020 21:50:16 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 21:50:16 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/algorithm/big_o_info/</guid>
+        <description>알고리즘 알고리즘은 어떤 문제를 해결하기 위한 여러 동작들의 모임을 말합니다. 다시 말해 어떤 값을 입력받아 결과 값을 출력하는 절차를 의미합니다. 이러한 문제 해결</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>빅오표기법</category>
+            
+          
+            
+              <category>알고리즘</category>
+            
+          
+        
+        
+          
+            
+              <category>algorithm</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

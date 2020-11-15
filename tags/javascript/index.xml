@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>javascript on live-jh blog</title>
+    <link>https://live-jh.github.io/tags/javascript/</link>
+    <description>Recent content in javascript on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 22:15:45 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>자바스크립트 알아두면 좋을 기초 개념 요약</title>
+        <link>https://live-jh.github.io/posts/dev/js_basic_concept/</link>
+        <pubDate>Sun, 15 Nov 2020 22:15:45 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:15:45 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/js_basic_concept/</guid>
+        <description>드림코딩 엘리 강좌를 보며 유용한 것들에 대해 정리한 내용 2입니다. 요약해서 간단히 정리한 내용이므로 빠진 부분이 있을 수 있습니다. 1. hoisting 사전적 의미는 끌어올리다</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>javascript</category>
+            
+          
+            
+              <category>자바스크립트</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>자바스크립트 함수, 배열 및 APIs 정리</title>
+        <link>https://live-jh.github.io/posts/dev/javascript_apis/</link>
+        <pubDate>Sun, 15 Nov 2020 22:15:33 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 22:15:33 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/javascript_apis/</guid>
+        <description>드림코딩 엘리 강좌를 보며 유용한 것들에 대해 정리한 내용입니다. API or Document를 읽고 보는 습관을 만들기 👍🏻 1. read API 1 2 3 4 5 // Ex // 2개의 파라미터 (</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>자바스크립트</category>
+            
+          
+            
+              <category>javascript</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

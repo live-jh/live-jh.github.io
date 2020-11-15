@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>자료구조 on live-jh blog</title>
+    <link>https://live-jh.github.io/tags/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/</link>
+    <description>Recent content in 자료구조 on live-jh blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
+    <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 21:50:33 +0900</lastBuildDate>
+    
+        <atom:link href="https://live-jh.github.io/tags/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>자료구조의 간단한 기초 개념</title>
+        <link>https://live-jh.github.io/posts/algorithm/data_structure_important/</link>
+        <pubDate>Sun, 15 Nov 2020 21:50:33 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 15 Nov 2020 21:50:33 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/algorithm/data_structure_important/</guid>
+        <description>1. 자료구조의 중요성 해당 포스팅은 누구나 자료구조와 알고리즘을 읽으며 정리한 내용입니다. 배열(기초자료구조) 배열은 컴퓨터 과학의 기초 자료중 하나 자료구조</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>자료구조</category>
+            
+          
+            
+              <category>알고리즘</category>
+            
+          
+        
+        
+          
+            
+              <category>algorithm</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
