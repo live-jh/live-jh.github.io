@@ -14,13 +14,85 @@
     <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
     <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 10 Dec 2020 23:02:50 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 23:56:33 +0900</lastBuildDate>
     
         <atom:link href="https://live-jh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>aws</title>
+        <link>https://live-jh.github.io/tags/aws/</link>
+        <pubDate>Sun, 07 Feb 2021 23:56:33 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        
+        <guid>https://live-jh.github.io/tags/aws/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>ec2</title>
+        <link>https://live-jh.github.io/tags/ec2/</link>
+        <pubDate>Sun, 07 Feb 2021 23:56:33 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        
+        <guid>https://live-jh.github.io/tags/ec2/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>iam</title>
+        <link>https://live-jh.github.io/tags/iam/</link>
+        <pubDate>Sun, 07 Feb 2021 23:53:45 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        
+        <guid>https://live-jh.github.io/tags/iam/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>s3</title>
+        <link>https://live-jh.github.io/tags/s3/</link>
+        <pubDate>Sun, 07 Feb 2021 23:53:45 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        
+        <guid>https://live-jh.github.io/tags/s3/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>비전공개발자</title>
@@ -119,24 +191,6 @@
         <author>livejh7129@gmail.com (live-jh)</author>
         
         <guid>https://live-jh.github.io/tags/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/</guid>
-        <description></description>
-        
-        <dc:creator>live-jh</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>aws</title>
-        <link>https://live-jh.github.io/tags/aws/</link>
-        <pubDate>Sun, 15 Nov 2020 22:15:22 +0900</pubDate>
-        <author>livejh7129@gmail.com (live-jh)</author>
-        
-        <guid>https://live-jh.github.io/tags/aws/</guid>
         <description></description>
         
         <dc:creator>live-jh</dc:creator>

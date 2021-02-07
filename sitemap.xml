@@ -13,18 +13,53 @@
   </url>
   
   <url>
+    <loc>https://live-jh.github.io/posts/dev/aws-saa-ec2/</loc>
+    <lastmod>2021-02-07T23:56:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://live-jh.github.io/tags/aws/</loc>
+    <lastmod>2021-02-07T23:56:33+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://live-jh.github.io/categories/</loc>
-    <lastmod>2020-12-10T23:02:50+09:00</lastmod>
+    <lastmod>2021-02-07T23:56:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://live-jh.github.io/categories/dev/</loc>
+    <lastmod>2021-02-07T23:56:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://live-jh.github.io/tags/ec2/</loc>
+    <lastmod>2021-02-07T23:56:33+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://live-jh.github.io/posts/</loc>
-    <lastmod>2020-12-10T23:02:50+09:00</lastmod>
+    <lastmod>2021-02-07T23:56:33+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://live-jh.github.io/tags/</loc>
-    <lastmod>2020-12-10T23:02:50+09:00</lastmod>
+    <lastmod>2021-02-07T23:56:33+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://live-jh.github.io/posts/dev/aws-saa-iam-s3/</loc>
+    <lastmod>2021-02-07T23:53:45+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://live-jh.github.io/tags/iam/</loc>
+    <lastmod>2021-02-07T23:53:45+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://live-jh.github.io/tags/s3/</loc>
+    <lastmod>2021-02-07T23:53:45+09:00</lastmod>
   </url>
   
   <url>
@@ -55,11 +90,6 @@
   <url>
     <loc>https://live-jh.github.io/posts/dev/django_project_setting/</loc>
     <lastmod>2020-11-15T22:22:18+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://live-jh.github.io/categories/dev/</loc>
-    <lastmod>2020-11-15T22:20:44+09:00</lastmod>
   </url>
   
   <url>
@@ -100,11 +130,6 @@
   <url>
     <loc>https://live-jh.github.io/posts/dev/javascript_apis/</loc>
     <lastmod>2020-11-15T22:15:33+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://live-jh.github.io/tags/aws/</loc>
-    <lastmod>2020-11-15T22:15:22+09:00</lastmod>
   </url>
   
   <url>

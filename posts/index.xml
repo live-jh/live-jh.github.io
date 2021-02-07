@@ -14,13 +14,85 @@
     <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
     <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 10 Dec 2020 23:02:50 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 23:56:33 +0900</lastBuildDate>
     
         <atom:link href="https://live-jh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>[AWS-SAA] AWS EC2 학습 정리</title>
+        <link>https://live-jh.github.io/posts/dev/aws-saa-ec2/</link>
+        <pubDate>Sun, 07 Feb 2021 23:56:33 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 07 Feb 2021 23:56:33 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/aws-saa-ec2/</guid>
+        <description>EC2 Udemy AWS Certified Solutions Architect - Associate 2020 강의를 학습하며 정리한 내용입니다. Elastic Compute Cloud Provides resizable compute allowing you to quickly scale capacity 확장 가능한 resize 컴퓨팅 용량 제공 Reduces the time required to obtain boot new server instances to minutes 새 인스턴스 가져오</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+            
+              <category>ec2</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>[AWS-SAA] AWS IAM&amp;S3 학습 정리</title>
+        <link>https://live-jh.github.io/posts/dev/aws-saa-iam-s3/</link>
+        <pubDate>Sun, 07 Feb 2021 23:53:45 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Sun, 07 Feb 2021 23:53:45 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/dev/aws-saa-iam-s3/</guid>
+        <description>IAM Udemy AWS Certified Solutions Architect - Associate 2020 강의를 학습하며 정리한 내용입니다. Region Geographical Area (each Region consists of 2(or more) Availability Zones) (지리적 영역) AZ Think of an Availability Zone as A Data Center isolated locations within each Region (각 지역내 독립된 위치) Multiple</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>aws</category>
+            
+          
+            
+              <category>iam</category>
+            
+          
+            
+              <category>s3</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>신입개발자가 효율적으로 일하는 방법</title>
