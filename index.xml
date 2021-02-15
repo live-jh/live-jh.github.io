@@ -84,7 +84,7 @@
         <author>livejh7129@gmail.com (live-jh)</author>
         <atom:modified>Sun, 07 Feb 2021 23:53:45 +0900</atom:modified>
         <guid>https://live-jh.github.io/posts/dev/aws-saa-iam-s3/</guid>
-        <description>IAM Udemy AWS Certified Solutions Architect - Associate 2020 강의를 학습하며 정리한 내용입니다. Region Geographical Area (each Region consists of 2(or more) Availability Zones) (지리적 영역) AZ Think of an Availability Zone as A Data Center isolated locations within each Region (각 지역내 독립된 위치) Multiple</description>
+        <description>Region Geographical Area (each Region consists of 2(or more) Availability Zones) (지리적 영역) AZ Think of an Availability Zone as A Data Center isolated locations within each Region (각 지역내 독립된 위치) Multiple Edge Locations Endpoints for aws which are user for caching content. typically this consists for CloudFront, amazon&amp;rsquo;s Content Delivery Network (일반적으</description>
         
         <dc:creator>live-jh</dc:creator>
         
