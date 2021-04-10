@@ -1676,7 +1676,7 @@ if (!doNotTrack) {
 <div class="single__infos">
   <time class="single__info" title="Written At">📅&nbsp;Nov 15, 2020 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;2&nbsp;min read </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;4&nbsp;min read </span>
   
   <span class="single__info">
     
@@ -1847,13 +1847,191 @@ if (!doNotTrack) {
 </ul>
 <br>
 <h2 id="4-앱-디자인-구성-및-settings-key-관리">4. 앱 디자인 구성 및 settings key 관리</h2>
-<br>
+<h3 id="backend">Backend</h3>
+<ol>
+<li>
+<p>장고 프로젝트 생성</p>
+<ol>
+<li>pycharm으로 new project시 아래 <code>2번 과정 생략</code></li>
+</ol>
+</li>
+<li>
+<p>가상환경 <a href="https://www.anaconda.com/products/individual#Downloads">anaconda</a> or <a href="https://live-jh.github.io/posts/dev/django_project_setting/">virtualenv</a>중 택 1 (anaconda version)</p>
+<ol>
+<li>anaconda 설치시 명령어 확인 <code>$ conda list</code></li>
+<li><code>$ conda create --name 프로젝트명 python=파이썬 버전</code> -&gt; 아나콘다 가상환경 생성</li>
+<li><code>$ conda activate 프로젝트명</code> 가상환경 활성화하기<br />
+4. <code>$ conda deactivate</code> 가상환경 비활성화</li>
+</ol>
+</li>
+<li>
+<p>실행하려는 명령 커맨드의 위치에서 가상환경 및 명령어 확인</p>
+<ol>
+<li><code>$ which python</code> (디렉토리 위치 확인)</li>
+<li><code>$ which pip</code> (디렉토리 위치 확인)</li>
+</ol>
+</li>
+<li>
+<p>프로젝트 설정</p>
+<ol>
+<li><code>$ pip install django~=버전(ex: 3.1.1)</code> 장고 설치</li>
+<li><code>$ which django-admin</code> (디렉토리 위치 확인)</li>
+<li><code>$ django-admin startproject 프로젝트명 .</code>
+<ol>
+<li>pycharm으로 new project시 명령어 생략</li>
+</ol>
+</li>
+<li>프로젝트 라이브러리 지정 (개발&amp;배포 환경 분리)
+<ol>
+<li>requirements/common, requirements/dev, requirements/prod
+<ol>
+<li>-r 읽어들일 파일명.파일형식 (-r common.txt)</li>
+</ol>
+</li>
+</ol>
+</li>
+<li><code>$ pip list --format=freeze &gt; requirements.txt</code>
+<ol>
+<li>requirements 생성(conda는 명령어로 list &ndash;format을 추가하기)</li>
+<li>virtualenv 가상환경의 경우 <code>$ pip freeze &gt; requirements.txt</code></li>
+</ol>
+</li>
+</ol>
+</li>
+<li>
+<p>settings.py 설정(dev, prod 분리)</p>
+<ol>
+<li>앱 - config
+<ol>
+<li>settings, common, static 등등</li>
+<li>common에서 key 관리 (scret_key, aws_key, DB info)
+<ol>
+<li><code>env.json </code> 파일로 관리</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>settings 개발 환경 분리(settings 폴더 생성)
+<ol>
+<li>settings/base.py, settings/dev.py, settings/prod.py
+<ol>
+<li><code>import *</code> (안티패턴이지만 settings에서만 예외 적용</li>
+</ol>
+</li>
+<li><code>asgi.py, wsgi.py -&gt; os.environ.setdefault: prod</code> product 설정</li>
+<li><code>manage.py -&gt; os.environ.setdefault: dev</code></li>
+</ol>
+</li>
+<li>settings.py static 설정 추가
+<ol>
+<li><code>STATIC_URL = '/static/'</code>
+<ol>
+<li>웹 페이지에서 사용할 정적 파일의 최상위 URL 경로로 경로 자체는 실제 파일이나 디렉토리가 아니며 순수 URL로만 존재하는 단위입니다. 사용자가 임의로 변경이 가능하며 반드시 문자열로 구성되어 /로 끝나야 합니다.</li>
+</ol>
+</li>
+<li><code>STATIC_ROOT = os.path.join(BASE_DIR, 'static')</code>
+<ol>
+<li>Django 프로젝트에서 사용하는 모든 정적 파일을 한 곳에 모아넣는 경로</li>
+<li>지정한 디렉토리로 모으는 명령은 <code>manage.py</code> 파일의 <code>collectstatic</code> 명령어로 수행
+<ol>
+<li><a href="https://github.com/live-jh/TIL/blob/master/django/django-frontend-base.md">collectstatic 설명</a> 참고</li>
+</ol>
+</li>
+</ol>
+</li>
+<li><code>STATICFILES_DIRS = [os.path.join(BASE_DIR, '프로젝트이름', 'static')]</code>
+<ol>
+<li>개발 단계에서 사용하는 정적 파일이 위치한 경로들을 지정하는 것으로 static 폴더가 프로젝트 바로 아래 경로에 있다면 프로젝트 이름은 생략 가능</li>
+</ol>
+</li>
+<li><code>MEDIA_URL = '/media/'</code>
+<ol>
+<li>파일의 url 접근시 사용되는 설정</li>
+<li>STATIC_URL과 비슷한 기능</li>
+</ol>
+</li>
+<li><code>MEDIA_ROOT = os.path.join(BASE_DIR, 'media')</code>
+<ol>
+<li>파일 업로드시 사용되는 설정 (업로드 후 파일 배치할 최상위 경로 지정)</li>
+<li>STATIC_ROOT와 다른 경로로 지정해야 합니다.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>TEMPLATES 설정
+<ol>
+<li>templates 폴더 이동시 변경</li>
+<li><code>'DIRS': [os.path.join(BASE_DIR, 'config', 'templates')]</code>
+<ol>
+<li>templates는 변경 불가</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>
+<p>DB Migration</p>
+<ol>
+<li><code>$ python manage.py migrate</code></li>
+</ol>
+</li>
+<li>
+<p>urls 개발 debug 및 static 분기</p>
+<ol>
+<li>setting.DEBUG True일때 path url에 debug_toolbar.urls 및 static url 패턴 추가
+<ol>
+<li><code>$ pip install django-debug-toolbar</code> 설치
+<ol>
+<li><a href="https://django-debug-toolbar.readthedocs.io/en/latest/installation.html#setting-up-urlconf">debug-toolbar-setting-guide</a></li>
+</ol>
+</li>
+<li>static -&gt; <code>static(media_url='' , document_root='')</code> 설정</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>
+<p>superuser 생성</p>
+<ol>
+<li><code>$ python manage.py createsuperuser</code></li>
+</ol>
+</li>
+<li>
+<p>프로젝트 app 생성</p>
+<ol>
+<li><code>python manage.py startapp 앱이름</code></li>
+<li>urls.py 생성 및 urlpatterns 추가</li>
+<li>settings에 installed_apps 앱 추가</li>
+</ol>
+</li>
+<li>
+<p>DB 정의 후 Django model 선언</p>
+</li>
+<li>
+<p>Serializers 설정</p>
+</li>
+<li>
+<p><code>$ python manage.py makemigrations</code></p>
+</li>
+<li>
+<p><code>$ python manage.py migrate</code></p>
+<ol>
+<li>쿼리 보기 -&gt; <code>$ python manage.py sqlmigrate 앱명 마이그레이트 파일명</code></li>
+</ol>
+</li>
+<li>
+<p>settings 설정 (debug_toolbar, 개발환경 구성 분리, db설정,  CORS 설정, timezone, root_url, static_url등 수정)</p>
+</li>
+</ol>
+<p><img src="https://user-images.githubusercontent.com/48043799/104835323-236e7d80-58e9-11eb-8dcc-f5082b6f8720.png" alt="스크린샷 2021-01-17 오후 5 24 41" /></p>
 <blockquote>
-<p>ing..</p>
+<p>Project Setting</p>
 </blockquote>
 <h2 id="reference">Reference</h2>
 <ul>
-<li></li>
+<li><a href="https://book.naver.com/bookdb/book_detail.nhn?bid=10916674">TwoScoops</a></li>
+<li><a href="https://educast.com/course/web-dev/ZU53">askcompany</a></li>
 </ul>
 
     </article>
@@ -3154,7 +3332,11 @@ document.addEventListener('DOMContentLoaded', function () {
         <li><a href="#settings-설정">settings 설정</a></li>
       </ul>
     </li>
-    <li><a href="#4-앱-디자인-구성-및-settings-key-관리">4. 앱 디자인 구성 및 settings key 관리</a></li>
+    <li><a href="#4-앱-디자인-구성-및-settings-key-관리">4. 앱 디자인 구성 및 settings key 관리</a>
+      <ul>
+        <li><a href="#backend">Backend</a></li>
+      </ul>
+    </li>
     <li><a href="#reference">Reference</a></li>
   </ul>
 </nav>
