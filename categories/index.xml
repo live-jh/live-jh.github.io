@@ -14,13 +14,31 @@
     <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
     <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 07 Feb 2021 23:56:33 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Apr 2021 23:10:19 +0900</lastBuildDate>
     
         <atom:link href="https://live-jh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>algorithm</title>
+        <link>https://live-jh.github.io/categories/algorithm/</link>
+        <pubDate>Thu, 22 Apr 2021 23:10:19 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        
+        <guid>https://live-jh.github.io/categories/algorithm/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>dev</title>
@@ -47,24 +65,6 @@
         <author>livejh7129@gmail.com (live-jh)</author>
         
         <guid>https://live-jh.github.io/categories/think/</guid>
-        <description></description>
-        
-        <dc:creator>live-jh</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>algorithm</title>
-        <link>https://live-jh.github.io/categories/algorithm/</link>
-        <pubDate>Sun, 15 Nov 2020 21:50:33 +0900</pubDate>
-        <author>livejh7129@gmail.com (live-jh)</author>
-        
-        <guid>https://live-jh.github.io/categories/algorithm/</guid>
         <description></description>
         
         <dc:creator>live-jh</dc:creator>

@@ -14,13 +14,49 @@
     <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
     <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 07 Feb 2021 23:56:33 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Apr 2021 23:10:19 +0900</lastBuildDate>
     
         <atom:link href="https://live-jh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>버블정렬</title>
+        <link>https://live-jh.github.io/tags/%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC/</link>
+        <pubDate>Thu, 22 Apr 2021 23:10:19 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        
+        <guid>https://live-jh.github.io/tags/%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>알고리즘</title>
+        <link>https://live-jh.github.io/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</link>
+        <pubDate>Thu, 22 Apr 2021 23:10:19 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        
+        <guid>https://live-jh.github.io/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>aws</title>
@@ -371,24 +407,6 @@
         <author>livejh7129@gmail.com (live-jh)</author>
         
         <guid>https://live-jh.github.io/tags/%EB%A9%94%ED%83%80%EC%9D%B8%EC%A7%80/</guid>
-        <description></description>
-        
-        <dc:creator>live-jh</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>알고리즘</title>
-        <link>https://live-jh.github.io/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</link>
-        <pubDate>Sun, 15 Nov 2020 21:50:33 +0900</pubDate>
-        <author>livejh7129@gmail.com (live-jh)</author>
-        
-        <guid>https://live-jh.github.io/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</guid>
         <description></description>
         
         <dc:creator>live-jh</dc:creator>
