@@ -14,13 +14,49 @@
     <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
     <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 22 Apr 2021 23:10:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 22:54:57 +0900</lastBuildDate>
     
         <atom:link href="https://live-jh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>개발자</title>
+        <link>https://live-jh.github.io/tags/%EA%B0%9C%EB%B0%9C%EC%9E%90/</link>
+        <pubDate>Tue, 15 Jun 2021 22:54:57 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        
+        <guid>https://live-jh.github.io/tags/%EA%B0%9C%EB%B0%9C%EC%9E%90/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>비전공자개발자</title>
+        <link>https://live-jh.github.io/tags/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EA%B0%9C%EB%B0%9C%EC%9E%90/</link>
+        <pubDate>Tue, 15 Jun 2021 22:54:57 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        
+        <guid>https://live-jh.github.io/tags/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EA%B0%9C%EB%B0%9C%EC%9E%90/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>버블정렬</title>

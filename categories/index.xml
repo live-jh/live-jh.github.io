@@ -14,13 +14,49 @@
     <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
     <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 22 Apr 2021 23:10:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 22:54:57 +0900</lastBuildDate>
     
         <atom:link href="https://live-jh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>개발자</title>
+        <link>https://live-jh.github.io/categories/%EA%B0%9C%EB%B0%9C%EC%9E%90/</link>
+        <pubDate>Tue, 15 Jun 2021 22:54:57 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        
+        <guid>https://live-jh.github.io/categories/%EA%B0%9C%EB%B0%9C%EC%9E%90/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>취업</title>
+        <link>https://live-jh.github.io/categories/%EC%B7%A8%EC%97%85/</link>
+        <pubDate>Tue, 15 Jun 2021 22:54:57 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        
+        <guid>https://live-jh.github.io/categories/%EC%B7%A8%EC%97%85/</guid>
+        <description></description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>algorithm</title>

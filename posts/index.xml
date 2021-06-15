@@ -14,13 +14,51 @@
     <managingEditor>livejh7129@gmail.com (live-jh)</managingEditor>
     <webMaster>livejh7129@gmail.com (live-jh)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 22 Apr 2021 23:10:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 22:54:57 +0900</lastBuildDate>
     
         <atom:link href="https://live-jh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>비전공자 개발자 취업 가이드 강의 제작</title>
+        <link>https://live-jh.github.io/posts/think/dev-course/</link>
+        <pubDate>Tue, 15 Jun 2021 22:54:57 +0900</pubDate>
+        <author>livejh7129@gmail.com (live-jh)</author>
+        <atom:modified>Tue, 15 Jun 2021 22:54:57 +0900</atom:modified>
+        <guid>https://live-jh.github.io/posts/think/dev-course/</guid>
+        <description>[와디즈] 펀딩 링크 https://www.wadiz.kr/web/campaign/detail/114683 [베어유] 강의 링크 https://bear-u.com/course/?courseId=75</description>
+        
+        <dc:creator>live-jh</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>비전공자개발자</category>
+            
+          
+            
+              <category>개발자</category>
+            
+          
+        
+        
+          
+            
+              <category>취업</category>
+            
+          
+            
+              <category>개발자</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>[python] 버블정렬의 이해와 예제 코드</title>
